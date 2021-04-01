@@ -4,11 +4,12 @@
 
 💻 Mi experiencia como programador se centra principalmente en 🌐 Desarrollo web: Front-End con JavaScript, y backend con PHP y JS. Tengo buen dominio en frameworks como Angular y Laravel, además tengo un dominio basico en Vuejs, Rectjs, Symfony, Nodejs y Nestjs.
 
-- 🔭 Actualmente estoy trabajando en: En el proyecto de JeaMoney Transfer [link](https://jeamoney.com)
+- 💼 Mi trabajo anterior fue: Proyecto JeaMoney Transfer [link](https://www.jeamoney.com)
+- 🔭 Actualmente estoy trabajando en: GDRP de Gobercom360
 - 🌱 Actualmente estoy aprendiendo: Nestjs y Reactjs
 - 📫 Cómo contactarme: 
   - [Twitter](https://twitter.com/ZahiriNatZuke)
-  - [LinkedIn](https://www.linkedin.com/in/yohan-gonzález-171646154)
+  - [LinkedIn](https://www.linkedin.com/in/yohan-gonzález-almaguer)
   - [Telegram](https://t.me/ZahiriNatZuke)
   - [Gmail](mailto:yohan.gonzalez.almaguer@gmail.com)
 - ⚡ Dato curioso: Tambien he desarrollado un poco con Unity y Android Studio.
