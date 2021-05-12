@@ -12,4 +12,5 @@
   - [LinkedIn](https://www.linkedin.com/in/yohan-gonzález-almaguer)
   - [Telegram](https://t.me/ZahiriNatZuke)
   - [Gmail](mailto:yohan.gonzalez.almaguer@gmail.com)
+- 📓 CV [link](https://resume.io/r/2Vo3ymadF)
 - ⚡ Dato curioso: Tambien he desarrollado un poco con Unity y Android Studio.
