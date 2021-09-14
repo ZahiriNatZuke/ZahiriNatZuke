@@ -5,7 +5,7 @@
 💻 Mi experiencia como programador se centra principalmente en 🌐 Desarrollo web: frontend con JavaScript, y backend con PHP y JS. Tengo buen dominio en frameworks como Angular y Laravel, además tengo un dominio básico en Vue, RectJS, Symfony, NodeJS + Express y NestJS.
 
 - 💼 Mi trabajo anterior fue: GDRP de Gobercom360, Meyisoft.
-- 🔭 Actualmente estoy trabajando en: --.
+- 🔭 Actualmente estoy trabajando en: N/A
 - 🌱 Actualmente estoy aprendiendo: NestJS + telegraf.
 - 📫 Cómo contactarme: 
   - [Twitter](https://twitter.com/ZahiriNatZuke) 
