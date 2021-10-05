@@ -13,4 +13,5 @@
   - [Telegram](https://t.me/ZahiriNatZuke)
   - [Gmail](mailto:yohan.gonzalez.almaguer@gmail.com)
 - 📓 CV [link](https://resume.io/r/2Vo3ymadF)
+- [Slyk](https://zahirinatzuke.slyk.io/?locale=en)
 - ⚡ Dato curioso: También he desarrollado un poco con Unity y Android Studio.
