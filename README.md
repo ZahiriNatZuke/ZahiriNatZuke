@@ -1,4 +1,4 @@
-### Holaaa!! 👋
+### Hi there!! 👋
 
 ⚡ My name is Yohan González Almaguer, I live in Havana, Cuba. I am a Computer Science Engineer, passionate about programming, all web technologies and cryptocurrencies.
 
