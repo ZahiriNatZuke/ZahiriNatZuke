@@ -1,14 +1,8 @@
 ### Holaaa!! 👋
 
-⚡ Soy Yohan González Almaguer, vivo en La Habana, Cuba. Soy estudiante de 5.º año de la Universidad de las Ciencias Informáticas (UCI), apasionado de la programación, de todas las tecnologías web y las criptomonedas.
+⚡ My name is Yohan González Almaguer, I live in Havana, Cuba. I am a Computer Science Engineer, passionate about programming, all web technologies and cryptocurrencies.
 
-💻 Mi experiencia como programador se centra principalmente en 🌐 Desarrollo web: frontend con JavaScript, y backend con PHP y JS. Tengo buen dominio en frameworks como Angular y Laravel, además tengo un dominio básico en Vuejs, Rectjs, Symfony, Nodejs y Nestjs.
-
----------------------------------------------------------------------------------------------------------------------
-
-⚡ I am Yohan González Almaguer, I live in Havana, Cuba. I am a 5th year student at the University of Computer Sciences (UCI), passionate about programming, all web technologies and cryptocurrencies.
-
-💻 My experience as a programmer is mainly focused on 🌐 Web development: frontend with JavaScript, and backend with PHP and JS. I have a good command of frameworks like Angular and Laravel, I also have a basic command of Vuejs, Rectjs, Symfony, Nodejs and Nestjs.
+💻 My experience as a programmer is mainly focused on 🌐 Web development: Frontend with Angular and Backend with Laravel and NestJS. I also have a basic domain of VueJS, RectJS, Symfony, NodeJS.
 
 - 💼 Mi trabajo anterior fue: GDRP de Gobercom360, Meyisoft.
 - 🔭 Actualmente estoy trabajando en: Jesam Consulting
@@ -20,4 +14,3 @@
   - [Gmail](mailto:yohan.gonzalez.almaguer@gmail.com)
 - 📓 CV [link](https://resume.io/r/2Vo3ymadF)
 - [Slyk](https://zahirinatzuke.slyk.io/?locale=en)
-- ⚡ Dato curioso: También he desarrollado un poco con Unity y Android Studio.
