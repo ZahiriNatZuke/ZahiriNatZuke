@@ -15,3 +15,5 @@
   - [Gmail](mailto:yohan.gonzalez.almaguer@gmail.com)
 - 📓 CV [link](https://resume.io/r/2Vo3ymadF)
 - [Slyk](https://zahirinatzuke.slyk.io/?locale=en)
+
+<a href="https://app.daily.dev/ZahiriNatZuke"><img src="https://api.daily.dev/devcards/0f37f6a73b244830ba354157634c81c7.png?r=f9s" width="400" alt="Yohan González Almaguer's Dev Card"/></a>
