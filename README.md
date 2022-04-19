@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/zahirinatzuke" target="blank"><img src="https://img.shields.io/twitter/follow/zahirinatzuke?logo=twitter&style=for-the-badge" alt="zahirinatzuke" /></a> </p>
 
-- 🔭 I’m currently working on [MyID](http://92.205.27.150:4000/)
+- 🔭 I’m currently working on [MyID](http://92.205.27.150:4000)
 
 - 🌱 I’m currently learning **Flutter**
 
