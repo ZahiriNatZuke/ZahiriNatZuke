@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/zahirinatzuke" target="blank"><img src="https://img.shields.io/twitter/follow/zahirinatzuke?logo=twitter&style=for-the-badge" alt="zahirinatzuke" /></a> </p>
 
-- 🔭 I’m currently working on [MyID](http://92.205.27.150:4000)
+- 🔭 I’m currently working on [Meeting Notes](http://meeting-notes-client.vercel.app/)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Zzz**
 
 - 💬 Ask me about **Angular, NestJS, Telegram Bot & Laravel**
 
@@ -36,6 +36,6 @@
 <p></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zahirinatzuke&show_icons=true&locale=en&layout=compact&count_private=true&theme=algolia" alt="zahirinatzuke" /></p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZahiriNatZuke&theme=algolia&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZahiriNatZuke&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 <a href="https://app.daily.dev/ZahiriNatZuke"><img src="https://api.daily.dev/devcards/0f37f6a73b244830ba354157634c81c7.png?r=f9s" width="400" alt="Yohan González Almaguer's Dev Card"/></a>
