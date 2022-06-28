@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Zzz**
 
-- 🌱 I’m currently learning **Zzz**
+- 🌱 I’m currently learning **Solidity**
 
 - 💬 Ask me about **Angular, NestJS, Telegram Bot & Laravel**
 
