@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [JFaba Notes](https://jfabanotes.com)
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **React + Vite** & **Solidity**
 
 - 💬 Ask me about **Angular, NestJS, Telegram Bot & Laravel**
 
