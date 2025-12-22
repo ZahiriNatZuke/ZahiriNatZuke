@@ -42,6 +42,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zahirinatzuke&show_icons=true&locale=en&layout=compact&count_private=true&theme=github_dark&hide_border=true" alt="zahirinatzuke" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZahiriNatZuke&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
 <a href="https://app.daily.dev/ZahiriNatZuke"><img src="https://api.daily.dev/devcards/0f37f6a73b244830ba354157634c81c7.png?r=f9s" width="400" alt="Yohan González Almaguer's Dev Card"/></a>
