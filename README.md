@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yohan González Almaguer</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Cuba</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zahirinatzuke&no-bg=true&no-frame=true&margin-w=15&margin-h=15&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="zahirinatzuke" /></a> </p>
-
 - 🔭 I’m currently working on **<a href="https://www.paycorr.io/">PayCorr</a>**
 
 - 🌱 I’m currently learning **<a href="https://2innovateit.com/es/frame-banking-plataforma/">Frame Banking Platform</a>**
