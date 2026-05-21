@@ -35,11 +35,4 @@
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
   <a href="https://grammy.dev" target="_blank" rel="noreferrer"> <img src="https://grammy.dev/images/Y.svg" alt="grammy" width="40" height="40"/></a>
 </p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zahirinatzuke&show_icons=true&locale=en&layout=compact&count_private=true&theme=github_dark&hide_border=true" alt="zahirinatzuke" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zahirinatzuke&show_icons=true&locale=en&layout=compact&count_private=true&theme=github_dark&hide_border=true" alt="zahirinatzuke" /></p>
-
 <a href="https://app.daily.dev/ZahiriNatZuke"><img src="https://api.daily.dev/devcards/0f37f6a73b244830ba354157634c81c7.png?r=f9s" width="400" alt="Yohan González Almaguer's Dev Card"/></a>
