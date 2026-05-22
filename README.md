@@ -46,9 +46,10 @@
 **Backend & APIs**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,fastify,prisma,postgres,mongodb,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,prisma,postgres,mongodb,redis&theme=dark" />
 </p>
 <p>
+  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
   <img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" />
   <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
   <img src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white" />
@@ -57,7 +58,10 @@
 **Tools & Infra**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,webstorm,datagrip,digitalocean,cloudflare,linux&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white" />
 </p>
 
 ---
