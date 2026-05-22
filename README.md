@@ -1,7 +1,11 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,100:243b55&height=200&section=header&text=Yohan%20Gonz%C3%A1lez%20Almaguer&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Angular%20%26%20NestJS%20Specialist&descAlignY=55&descColor=a0c4ff" width="100%"/>
+<!-- HEADER WAVE (sin texto en la URL — evita fallos del proxy de GitHub con caracteres especiales) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,100:243b55&height=160&section=header" width="100%"/>
+
+<!-- NAME & TITLE como HTML puro -->
+<h1>Yohan González Almaguer</h1>
+<h3>Full Stack Developer &nbsp;·&nbsp; Angular &amp; NestJS Specialist</h3>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/ZahiriNatZuke">
@@ -62,10 +66,9 @@
 
 <div align="center">
 
-<a href="https://github.com/ZahiriNatZuke">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZahiriNatZuke&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZahiriNatZuke&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
-</a>
+<!-- Reemplazado github-readme-stats (rate-limited) con github-profile-summary-cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZahiriNatZuke&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZahiriNatZuke&theme=tokyonight" />
 
 <br/>
 
@@ -87,14 +90,17 @@
 
 <div align="center">
 
+<!-- Reemplazado github-readme-stats pin cards (rate-limited) con gh-card.dev -->
 <a href="https://github.com/ZahiriNatZuke/angular-template-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZahiriNatZuke&repo=angular-template-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  <img src="https://gh-card.dev/repos/ZahiriNatZuke/angular-template-project.svg?link_target=_blank" />
 </a>
+&nbsp;
 <a href="https://github.com/ZahiriNatZuke/nest-template-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZahiriNatZuke&repo=nest-template-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  <img src="https://gh-card.dev/repos/ZahiriNatZuke/nest-template-project.svg?link_target=_blank" />
 </a>
+&nbsp;
 <a href="https://github.com/ZahiriNatZuke/whisper-transcribe-mcp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZahiriNatZuke&repo=whisper-transcribe-mcp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  <img src="https://gh-card.dev/repos/ZahiriNatZuke/whisper-transcribe-mcp.svg?link_target=_blank" />
 </a>
 
 </div>
