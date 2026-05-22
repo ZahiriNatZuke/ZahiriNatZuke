@@ -58,9 +58,11 @@
 **Tools & Infra**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,webstorm,datagrip,digitalocean,cloudflare,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,webstorm,cloudflare,linux&theme=dark" />
 </p>
 <p>
+  <img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white" />
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
   <img src="https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white" />
 </p>
 
