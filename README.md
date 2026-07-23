@@ -25,7 +25,7 @@
 ## 🧑‍💻 About Me
 
 - 🔭 Building production-ready **[Angular 21 Template](https://github.com/ZahiriNatZuke/angular-template-project)** with Zoneless CD + NgRx SignalStore
-- 🤖 Exploring **AI tooling & MCP** (Model Context Protocol) — recently shipped [`whisper-transcribe-mcp`](https://github.com/ZahiriNatZuke/whisper-transcribe-mcp)
+- 🤖 Exploring **AI tooling & MCP** (Model Context Protocol) — recently shipped [`local-delegate-mcp`](https://github.com/ZahiriNatZuke/local-delegate) & [`whisper-transcribe-mcp`](https://github.com/ZahiriNatZuke/whisper-transcribe-mcp)
 - 🚀 Crafting scalable backends with **NestJS + Fastify + Prisma + tRPC + Zod**
 - 💬 Ask me about **Angular · NestJS · TypeScript · tRPC · Docker · MCP**
 - 📫 Reach me: **yohan.gonzalez.almaguer@gmail.com** · [LinkedIn](https://linkedin.com/in/yohan-gonz%C3%A1lez-almaguer)
